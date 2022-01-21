@@ -9,6 +9,7 @@ programa
 		escreva("Seja Bem-Vinde ao JO-KEN-PO raiz\n")
 		escreva("Jogador 1, sua vez: ")
 		leia(v1)
+		limpa()
 		escreva("Jogador 2, sua vez: ")
 		leia(v2)
 		limpa()
@@ -39,6 +40,7 @@ programa
 			escreva("Seja Bem-Vinde ao JO-KEN-PO raiz\n")
 			escreva("Jogador 1, sua vez: ")
 			leia(v1)
+			limpa()
 			escreva("Jogador 2, sua vez: ")
 			leia(v2)
 			limpa()
@@ -50,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 748; 
+ * @POSICAO-CURSOR = 961; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
